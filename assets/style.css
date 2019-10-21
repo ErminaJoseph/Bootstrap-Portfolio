@@ -1,0 +1,13 @@
+body {
+    background-image: url("../images/hotel-wallpaper-black.png");
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #f5f5f5;
+}
+
+.container {
+    background-color: #f5f5f5;
+}
