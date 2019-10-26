@@ -76,3 +76,9 @@ h2 {
     top: 850px;
     left: 232px;
 }
+
+footer {
+    background: #8b0000;
+    color: #ffffff;
+    text-align: center;
+}
